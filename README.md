@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasdemarre
-- 👀 I’m interested in computer networks & linux
+- 👀 I’m interested in system- & network administration and security
 - 🌱 I’m currently learning Applied Informatics
 - 📫 How to reach me [lucasdemarre2001@gmail.com](mailto:lucasdemarre2001@gmail.com)
 
